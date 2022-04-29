@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tops on Si Chen</title>
+    <title>Tops on Personal Website</title>
     <link>https://zhaohuabing.com/top/</link>
-    <description>Recent content in Tops on Si Chen</description>
+    <description>Recent content in Tops on Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://zhaohuabing.com/top/index.xml" rel="self" type="application/rss+xml" />
     <item>
@@ -12,7 +12,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zhaohuabing.com/top/about/</guid>
-      <description>I am a third-year Ph.D. candidate at the University of Illinois Urbana-Champaign, School of Information Sciences. I am passionate about designing and evaluating multi-modal education technology. I also have strong interests in designing for the minority community, e.g., deaf and hard of hearing, ethnic minorities. I work with Prof. Yun Huang (http://yunhuang.web.illinois.edu/) and Prof. Lawerence Angrave (https://cs.illinois.edu/about/people/faculty/angrave). During my undergrad at Tsinghua University, I worked with Prof Pei-Luen Patrick Rau.</description>
+      <description>I am a third-year Ph.D. candidate at the University of Illinois Urbana-Champaign (UIUC), School of Information Sciences. I am passionate about designing and evaluating multi-modal education technology. I also have strong interests in designing for the minority community, e.g., deaf and hard of hearing, ethnic minorities. I work with Prof. Yun Huang (http://yunhuang.web.illinois.edu/) and Prof. Lawerence Angrave (https://cs.illinois.edu/about/people/faculty/angrave). During my undergrad at Tsinghua University, I worked with Prof Pei-Luen Patrick Rau.</description>
     </item>
     
     <item>
@@ -21,16 +21,11 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://zhaohuabing.com/top/books/</guid>
-      <description>Machine learning学习笔记 Coursera 在线课程 Machine learning 笔记讲师: 吴恩达(Andrew Ng) 课程地址：https://www.coursera.org/lear</description>
-    </item>
-    
-    <item>
-      <title>Posts Archive</title>
-      <link>https://zhaohuabing.com/top/archive/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zhaohuabing.com/top/archive/</guid>
-      <description></description>
+      <description>Projects (under construction)
+  Online Learning Tools for General Students and DHH (deaf and hard of hearing) Students in STEM
+  Social-emotional and Multimodal Learning Experience
+  Cultural Sustainbility in Minority Groups
+  Publications Si Chen, Yixin Liu, Risheng Lu, Yi-Chieh Lee, Yuqian Zhou and Yun Huang. 2022. &amp;ldquo;Mirror, Mirror, on the Wall&amp;rdquo; - Promoting Learners&amp;rsquo; Self-Regulated Learning using Affective States Recognition via Facial Movements. Proceedings of the 2022 ACM Designing Interactive Systems Conference.</description>
     </item>
     
   </channel>
